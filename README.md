@@ -2,7 +2,7 @@
 
 This is a simple weather app built using **Python**, **Tkinter**, and the **OpenWeatherMap API**. It allows users to enter a city name, fetch live weather data, display it with weather icons, and save the results to a local CSV file.
 
-![Screenshot](<Screenshot 2025-06-20 014221.png>)
+![Screenshot](<Screenshot.png>)
 ---
 
 ## Features
@@ -29,5 +29,5 @@ This is a simple weather app built using **Python**, **Tkinter**, and the **Open
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/weather-gui-app.git
+   git clone https://github.com/harshikaa97/weather-gui-app.git
    cd weather-gui-app
