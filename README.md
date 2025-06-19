@@ -2,7 +2,7 @@
 
 This is a simple weather app built using **Python**, **Tkinter**, and the **OpenWeatherMap API**. It allows users to enter a city name, fetch live weather data, display it with weather icons, and save the results to a local CSV file.
 
-![Screenshot](<Screenshot 2025-06-20 014221.png>)
+![Screenshot](<Screenshot.png>)
 ---
 
 ## Features
