@@ -7,7 +7,7 @@ from PIL import Image, ImageTk
 import io
 
 # ====== CONFIGURATION ======
-API_KEY = "7252717cb4378d0e5d460eb341d2febb"
+API_KEY = "your_api_key_here"
 CSV_FILE = "weather_gui_data.csv"
 
 def get_weather():
