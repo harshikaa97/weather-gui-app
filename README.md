@@ -29,5 +29,5 @@ This is a simple weather app built using **Python**, **Tkinter**, and the **Open
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/weather-gui-app.git
+   git clone https://github.com/harshikaa97/weather-gui-app.git
    cd weather-gui-app
