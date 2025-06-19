@@ -5,9 +5,13 @@ import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk
 import io
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 # ====== CONFIGURATION ======
-API_KEY = "7252717cb4378d0e5d460eb341d2febb"
+API_KEY = os.getenv("OPENWEATHER_API_KEY")
 CSV_FILE = "weather_gui_data.csv"
 
 def get_weather():
